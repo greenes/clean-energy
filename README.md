@@ -3,6 +3,6 @@
 The state of the clean energy industry in America.
 
 Learning Objectives:
-- 1. What is the clean energy sector?
-- 2. How is the clean energy sector doing compared to other industries in America?
-- 3. How does America's clean energy sector compare to other nations' clean energy sectors?
+- 1. Identify attributes of the clean energy industry
+- 2. Describe the overarching trends in the America's clean energy economy
+- 3. Compare America's clean energy economy with other countries
